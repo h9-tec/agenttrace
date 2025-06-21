@@ -1,0 +1,11 @@
+# Core dependencies
+fastapi>=0.68.0
+uvicorn[standard]>=0.15.0
+pydantic>=1.8.0
+python-multipart>=0.0.5
+
+# Optional integrations (install with pip install agenttrace[crewai] etc.)
+# crewai>=0.1.0
+# langchain>=0.0.200
+# langchain-openai>=0.0.5
+# python-dotenv>=0.19.0 
