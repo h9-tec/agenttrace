@@ -307,12 +307,11 @@ AgentTrace is released under the MIT License. See [LICENSE](LICENSE) for details
 ## 🔗 Links
 
 - [Documentation](https://github.com/h9-tec/agenttrace)
-- [PyPI Package](https://pypi.org/project/agenttrace)
 - [GitHub Repository](https://github.com/h9-tec/agenttrace)
 - [Issue Tracker](https://github.com/h9-tec/agenttrace/issues)
 
 ---
 
-**Need help?** Open an issue or reach out on [Discord](https://discord.gg/agenttrace)
+**Need help?** Open an issue or reach out on [Discord](https://discord.gg/sUHXj4H9)
 
 **Love AgentTrace?** Give us a ⭐ on GitHub! 
